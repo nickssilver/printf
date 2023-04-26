@@ -1,6 +1,6 @@
-# printf
+# printf:tada:
 
-### Description
+## Description:page_facing_up:
 
 ------------
 
@@ -14,7 +14,7 @@ These arguments are placed using the percentage '%' operator
 ------------
 
 
-#### Resources
+### Resources
 
 ------------
 
@@ -42,7 +42,7 @@ va_arg (man 3 va_arg)
 
 ------------
 
-#### Compilation
+#### Compilation:alembic:
 
 ------------
 
@@ -162,19 +162,19 @@ Specifier                |Output                        |Examples |
 
 ------------
 
-#### Tasks required for this project
+## Tasks required for this project
 
 
 ------------
 
-0. ###### I am not going anywhere. You can print that wherever you want to. I'm here and I am a Spur for life1.  I am not going anywhere. You can print that wherever you want to. I'm here and I am a Spur for life. 
+0. ### I am not going anywhere. You can print that wherever you want to. I'm here and I am a Spur for life1.  I am not going anywhere. You can print that wherever you want to. I'm here and I am a Spur for life. 
 Write a function that produces output according to a format.
 Handle the following conversion specifiers:
 - c
 - s
 - %
 
-1. ###### Education is when you read the fine print. Experience is what you get if you dont
+1. ### Education is when you read the fine print. Experience is what you get if you dont
 Handle the following conversion specifiers:
 - d
 - i
@@ -232,13 +232,14 @@ Handle the - flag character for non-custom conversion specifiers.
 Handle the following custom conversion specifier:
  - r : prints the reversed string
 
-15. ###### The flood of print has turned reading into a process of gulping rather than savoring 
+15. ###### [The flood of print has turned reading into a process of gulping rather than savoring] 
 Handle the following custom conversion specifier:
 - R: prints the rot13'ed string
 
 16. ###### *
 All the above options work well together.
-
+# Disclaimer
+If you happen to use these repo we scored `158%`
 ### Authors &copy;
 
 - Nicks
